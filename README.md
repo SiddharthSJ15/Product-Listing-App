@@ -1,4 +1,4 @@
-# product_listing_app
+# Product Listing App
 
 A new Flutter project.
 
